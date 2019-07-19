@@ -1,0 +1,19 @@
+{
+  "name": "remark-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/remark-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "remark": "^10.0.1",
+    "remark-html": "^9.0.1",
+    "remark-preset-lint-recommended": "^3.0.3"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "typescript": "^3.5.3"
+  }
+}
